@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">JavaSecondActivity</string>
+    <string name="some_item">some item</string>
+    <string name="drawer_header">drawer header\n</string>
+    <string name="navigation_drawer_open">drawer open</string>
+    <string name="navigation_drawer_close">drawer close</string>
 </resources>
